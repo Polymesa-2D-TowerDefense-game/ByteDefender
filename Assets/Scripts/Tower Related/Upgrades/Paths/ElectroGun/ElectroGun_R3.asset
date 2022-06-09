@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 310a626f5bf27ab4c92747fdc1f6ff87, type: 3}
+  m_Name: ElectroGun_R3
+  m_EditorClassIdentifier: 
+  newTowerName: 
+  newTowerDescription: 
+  upgradeCost: 640
+  upgradeName: Dry Ice
+  upgradeDescription: Right 3
+  rangeUpgrade: 0.9
+  spriteUpgrade: {fileID: 21300000, guid: d13b81a23a04c194abd804788233a413, type: 3}
+  attackSpeedUpgrade: 0.9
+  damageUpgrade: 0
+  projectileTravelSpeedUpgrade: 3
+  projectileUpgrade: {fileID: 1236283103330908695, guid: 74a2d119032e96a45b2c7898780c1cbc, type: 3}

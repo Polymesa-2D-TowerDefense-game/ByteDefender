@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 310a626f5bf27ab4c92747fdc1f6ff87, type: 3}
+  m_Name: MotorGun_L3
+  m_EditorClassIdentifier: 
+  newTowerName: 
+  newTowerDescription: 
+  upgradeCost: 495
+  upgradeName: Max Torque
+  upgradeDescription: Maximizes damage done and projectile speed
+  rangeUpgrade: 0
+  spriteUpgrade: {fileID: 21300000, guid: 1bb23603f0fa97a44b0ee35439206cb1, type: 3}
+  attackSpeedUpgrade: 0
+  damageUpgrade: 2
+  projectileTravelSpeedUpgrade: 4
+  projectileUpgrade: {fileID: 4516919723142735230, guid: f209e574ae59d5542a5b441603acd73b, type: 3}

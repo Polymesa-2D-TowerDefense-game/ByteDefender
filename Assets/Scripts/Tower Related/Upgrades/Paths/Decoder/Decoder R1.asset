@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f024a812926f1564082a4d547d98502f, type: 3}
+  m_Name: Decoder R1
+  m_EditorClassIdentifier: 
+  newTowerName: 
+  newTowerDescription: 
+  upgradeCost: 180
+  upgradeName: Duration 1
+  upgradeDescription: Increases Buff Duration
+  rangeUpgrade: 0
+  spriteUpgrade: {fileID: 0}
+  buffDurationUpgrade: 1
+  damageBuffUpgrade: 0
+  attackSpeedBuffUpgrade: 0
+  rangeBuffUpgrade: 0

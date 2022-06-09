@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 310a626f5bf27ab4c92747fdc1f6ff87, type: 3}
+  m_Name: CoilGun_L3
+  m_EditorClassIdentifier: 
+  newTowerName: 
+  newTowerDescription: 
+  upgradeCost: 360
+  upgradeName: Unlimited Power
+  upgradeDescription: Maximizes missile's speed and damage done
+  rangeUpgrade: 0
+  spriteUpgrade: {fileID: 21300000, guid: 08e88a98f0d04b14bb59b0083311471a, type: 3}
+  attackSpeedUpgrade: 0
+  damageUpgrade: 2
+  projectileTravelSpeedUpgrade: 4
+  projectileUpgrade: {fileID: 1737914979998155704, guid: d304a7cc96a1ca7409f8cd328e592581, type: 3}

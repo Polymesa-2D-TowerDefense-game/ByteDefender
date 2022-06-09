@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 519de009fe99f444aacbed34b746a80c, type: 3}
+  m_Name: CoinFarmer R1
+  m_EditorClassIdentifier: 
+  newTowerName: 
+  newTowerDescription: 
+  upgradeCost: 400
+  upgradeName: Faster Production 1
+  upgradeDescription: 
+  rangeUpgrade: 0
+  spriteUpgrade: {fileID: 0}
+  productionSpeed: 0.5
+  coinValue: 0

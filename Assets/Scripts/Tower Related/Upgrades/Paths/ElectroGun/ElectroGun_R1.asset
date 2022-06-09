@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 310a626f5bf27ab4c92747fdc1f6ff87, type: 3}
+  m_Name: ElectroGun_R1
+  m_EditorClassIdentifier: 
+  newTowerName: 
+  newTowerDescription: 
+  upgradeCost: 290
+  upgradeName: Cooldown 1
+  upgradeDescription: Dramaticly increases range. Also increases attack speed.
+  rangeUpgrade: 0.4
+  spriteUpgrade: {fileID: 0}
+  attackSpeedUpgrade: 0.6
+  damageUpgrade: 0
+  projectileTravelSpeedUpgrade: 2.5
+  projectileUpgrade: {fileID: 0}

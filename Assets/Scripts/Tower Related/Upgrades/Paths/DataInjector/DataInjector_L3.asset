@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 310a626f5bf27ab4c92747fdc1f6ff87, type: 3}
+  m_Name: DataInjector_L3
+  m_EditorClassIdentifier: 
+  newTowerName: 
+  newTowerDescription: 
+  upgradeCost: 545
+  upgradeName: Max Coruption
+  upgradeDescription: Maximizes Damage done
+  rangeUpgrade: 0
+  spriteUpgrade: {fileID: 21300000, guid: e7c5ba91321f67a4e8d8dcbf09a32368, type: 3}
+  attackSpeedUpgrade: 0
+  damageUpgrade: 2
+  projectileTravelSpeedUpgrade: 0
+  projectileUpgrade: {fileID: 0}
